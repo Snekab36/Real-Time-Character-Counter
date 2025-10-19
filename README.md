@@ -26,6 +26,4 @@ JavaScript (Vanilla) – for real-time character counting logic
 
 
 
-Further typing is prevented.
 
-A warning message appears below the counter.
